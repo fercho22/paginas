@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background: rgba(97, 117, 180, 0.5)
+}
+p{
+  background: #a66;
+  font-size: .5em;
+  color: #565;
+}
+.tit{
+	  background: #FCF17C;
+	  padding: .5em .5em .5em .5em;
+	  margin: .5em .5em .5em .5em;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 0px 0px;
+    width: 90%;
+    text-align: center;
+  }
+  .subTit{
+  	background: #3149A7;
+	  padding: .5em .5em .5em .5em;
+	  margin: .5em .5em .5em .5em;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 0px 0px;
+    text-align: center;
+
+  }
+  .sub3Tit{
+    background: #A73131;
+    padding: .5em .5em .5em .5em;
+    margin: .5em .5em .5em .5em;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 0px 0px;
+    text-align: center;
+  }
